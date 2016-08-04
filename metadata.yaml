@@ -1,0 +1,44 @@
+_repo: Child-of-Storm_1711
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Rider
+    - Haggard, Henry Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "Child of Storm is a 1913 novel by H. Rider Haggard featuring Allan Quatermain.\
+  \ The plot is set in 1854-56 and concerns Quatermain hunting in Zululand and getting\
+  \ involved with Mameema, a beautiful African girl who causes great turmoil in the\
+  \ Zulu kingdom.\nThe novel is the second in a trilogy by Haggard involving the collapse\
+  \ of the Zulu kingdom and featuring the dwarf Zikali. The first book is Marie, and\
+  \ the third, Finished.\nThe story takes place against the real life struggle between\
+  \ Cetshwayo and Umbelazi, the two sons of the Zulu king Mpande (called \"Panda\"\
+  \ in the novel). The events culminate in the Battle of Ndondakusuka (here called\
+  \ the \"Battle of the Tugela\") in 1856. Real life people such as Panda, Cetshwayo,\
+  \ and John Robert Dunn appear as characters.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1711'
+  wikidata: Q5097889
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Zululand (South Africa) -- History -- Fiction'
+- !lcsh 'Zulu (African people) -- Fiction'
+- !lcsh 'Quatermain, Allan (Fictitious character) -- Fiction'
+- GITenberg
+title: Child of Storm
+url: http://www.gutenberg.org/ebooks/1711
+wikipedia:
+- https://en.wikipedia.org/wiki/Child_of_Storm
