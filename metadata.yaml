@@ -1,5 +1,8 @@
 _repo: Child-of-Storm_1711
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -21,6 +24,8 @@ description: "Child of Storm is a 1913 novel by H. Rider Haggard featuring Allan
   \ in the novel). The events culminate in the Battle of Ndondakusuka (here called\
   \ the \"Battle of the Tugela\") in 1856. Real life people such as Panda, Cetshwayo,\
   \ and John Robert Dunn appear as characters.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1711#Child-of-Storm
 gutenberg_bookshelf: Adventure
 gutenberg_issued: '1999-04-01'
 gutenberg_type: Text
